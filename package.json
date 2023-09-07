@@ -1,0 +1,32 @@
+{
+  "name": "namaste-react-course",
+  "version": "1.0.0",
+  "description": "React ",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PRAKASHJS22/Namaste-React-Course.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Prakash J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PRAKASHJS22/Namaste-React-Course/issues"
+  },
+  "homepage": "https://github.com/PRAKASHJS22/Namaste-React-Course#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "process": "^0.11.10",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
